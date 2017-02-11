@@ -1,0 +1,17 @@
+{
+  "name": "testupandrunningwithnodejs",
+  "version": "1.0.0",
+  "description": "test nodejs",
+  "main": "gulpFile.js",
+  "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "gulp": "^3.9.1",
+    "minimatch": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
